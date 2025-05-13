@@ -1,3 +1,6 @@
-[submodule "octogames-testcase"]
-	path = octogames-testcase
-	url = https://github.com/e-sparrow/Synonyms
+[submodule "Assets/ThirdParty/Birdhouse"]
+	path = Assets/ThirdParty/Birdhouse
+	url = https://github.com/e-sparrow/Birdhouse.git
+[submodule "Assets/ThirdParty/Synonyms"]
+	path = Assets/ThirdParty/Synonyms
+	url = https://github.com/e-sparrow/Synonyms.git
