@@ -1,0 +1,3 @@
+[submodule "octogames-testcase"]
+	path = octogames-testcase
+	url = https://github.com/e-sparrow/Synonyms
