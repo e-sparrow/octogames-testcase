@@ -1,2 +1,18 @@
+@button "Перейти на глобальную карту" {
+    @goto globalMap
+}
 
+@input name="playerName" label="Введите ваше имя:"
+
+@name playerName
+@char NPC1 
+Привет, @playerName! Выдаю тебе квест, иди к НПЦ-2 и обнови его
+
+@goto location2
+
+@char NPC2
+Привет, ты пришёл обновить квест? Хорошо. После диалога со мной произойдёт мини-игра.
+
+@char Kohaku
+Привет
 @stop

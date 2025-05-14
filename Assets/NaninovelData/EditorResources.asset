@@ -149,3 +149,10 @@ MonoBehaviour:
     - name: Level 1
       pathPrefix: Scripts
       guid: 7bd127e3cb9a3b448bc5fe4d891e34dc
+  - Id: Characters/a5afd14d-df43-4e88-b3c5-245270d5b491
+    Resources:
+    - name: Female Sprite by Sutemo
+      pathPrefix: Characters/NPC1
+      guid: 93bfeabd0f8e320438f546f350811886
+  - Id: CharacterAvatars
+    Resources: []
